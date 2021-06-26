@@ -1,0 +1,11 @@
+Name|  Position|  Salary(RM)|  
+________
+Ali|  Normal|  2000|  
+________
+Adam|  Normal|  2500|  
+________
+Lili|  Executive|  4500|  
+________
+Total Salary for Normal Employee: RM4500.0
+Total Salary for Executive Employee: RM4500.0
+Total Salary for Employee: RM9000.0

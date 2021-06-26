@@ -1,0 +1,7 @@
+Marketing Method|  Cost(RM)|  
+________
+Advertisement|  3000|  
+________
+Event|  4000|  
+________
+Total Marketing Cost: RM7000.0

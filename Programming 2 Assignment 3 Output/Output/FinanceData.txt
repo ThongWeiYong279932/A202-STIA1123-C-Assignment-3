@@ -1,0 +1,20 @@
+Year: 2021
+Month: January
+Revenue: RM80000
+Cost of Goods Sold: RM20000
+Gross Profit: RM60000.0
+Operating Expense: RM16000.0
+Operating Income: RM44000.0
+Taxes: RM10000
+Net Income: RM34000.0
+
+Year: 2021
+Month: February
+Revenue: RM90000
+Cost of Goods Sold: RM25000
+Gross Profit: RM65000.0
+Operating Expense: RM16000.0
+Operating Income: RM49000.0
+Taxes: RM15000
+Net Income: RM34000.0
+

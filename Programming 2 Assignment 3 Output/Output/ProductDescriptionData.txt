@@ -1,0 +1,14 @@
+Product Name|  Average Weight(kg)|  Price(RM)|  
+________
+Mango|  1.5|  3.5|  
+________
+Watermelon|  4.0|  5.5|  
+________
+Dragon Fruit|  1.5|  4.5|  
+________
+Cabbage|  1.0|  3.0|  
+________
+Tomato|  0.5|  2.5|  
+________
+Corn|  1.75|  4.5|  
+________
