@@ -1,0 +1,8 @@
+Name|  Gender|  I/C|  Membership|  
+________
+Ali|  Male|  112233|  Member|  
+________
+Lili|  Female|  225566|  Member|  
+________
+Adam|  Male|  333333|  Non Member|  
+________

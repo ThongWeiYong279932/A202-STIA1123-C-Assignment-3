@@ -1,0 +1,9 @@
+Product|  Price(RM)|  Number|  Total Value(RM)|  
+________
+Mango|  2.5|  20|  50.0|  
+________
+Watermelon|  4.5|  30|  135.0|  
+________
+Dragon Fruit|  4.0|  20|  80.0|  
+________
+Total Inventory: RM265.0

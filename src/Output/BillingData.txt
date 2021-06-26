@@ -1,0 +1,10 @@
+Product|  Price(RM)|  Number|  Total Price(RM)|  
+________
+Mango|  3.50|  3|  10.5|  
+________
+Watermelon|  5.50|  2|  11.0|  
+________
+Total Charge: RM21.5
+Payment Method: Cash
+Payment Amount: RM25
+Charge: RM3.5
